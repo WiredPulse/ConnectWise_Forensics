@@ -19,4 +19,3 @@ A series of functions to parse ConnectWise logs to answer specific questions.
 * Were there any files transmitted during the incoming connection?
 * What is the duration of the incoming and outgoing connection?
 * How long does the application process run, on average?
-* Whas the tunnel feature configured and used?
